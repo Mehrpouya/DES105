@@ -13,7 +13,7 @@ We came up with some design excitements and limitations for our project.
 - You get an add every 4 seconds
 
   
-**Excitements/affirdance are:**
+**Excitements/affordances are:**
 - Becoming sponge, how to sense like a sponge
 - Movement mechanics based on parasitic behaviours
 - Give a sense of scale, of being small and reliant
