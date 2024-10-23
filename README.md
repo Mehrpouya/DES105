@@ -28,7 +28,7 @@ We came up with some design excitements and limitations for our project.
 - adapts well to its habitat, 
   - live on hard/rocky surfaces & soft sediments/sand and mud.
 - tiny hairlike structures called flagella create currents to filter bacteria out of the sponge’s cells and trap food within them. 
-- strong skeletal structures help sponges withstand the high volume of water that flows through them each day![image](https://github.com/user-attachments/assets/e739c0ea-754f-4bb6-8269-6bb7e670276f)
+- strong skeletal structures help sponges withstand the high volume of water that flows through them each day
 
 1. As water filters through a sponge
 2. the sponge gains some motion
