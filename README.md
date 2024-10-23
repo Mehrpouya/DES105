@@ -5,11 +5,14 @@
 ### Here we document our thinking and design process:
 Idea: We are developing a gamified experience around being a sponge. We start by using Spongebob as our main character. 
 We came up with some design excitements and limitations for our project. 
+
 **Limitations are:**
 - No in game UI
 - Limited vision
 - No micro transaction
 - You get an add every 4 seconds
+
+  
 **Excitements/affirdance are:**
 - Becoming sponge, how to sense like a sponge
 - Movement mechanics based on parasitic behaviours
