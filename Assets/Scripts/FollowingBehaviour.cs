@@ -8,7 +8,11 @@ public class FollowingBehaviour : MonoBehaviour
     public GameObject WhoToFollow;
     public float followingSpeed = 0.1f;
     public float distanceTrigger = 1.0f;
-    
+
+
+    public void HearAMessage(string myMessage,string WhoIsSayingThis) {
+        print("the message is " + myMessage + " from: " + WhoIsSayingThis);
+    }
 
     // Start is called before the first frame update
     void Start()
