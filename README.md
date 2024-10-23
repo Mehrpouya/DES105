@@ -1,5 +1,6 @@
 # The Spongebob project
 ## Developed by DES105 class 2024
+!SpongeBob](https://github.com/Mehrpouya/DES105/blob/main/SpongeBobBedroom.png)
 
 ### Here we document our thinking and design process:
 Idea: We are developing a gamified experience around being a sponge. We start by using Spongebob as our main character. 
