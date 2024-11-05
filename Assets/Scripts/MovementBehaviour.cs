@@ -6,11 +6,12 @@ public class MovementBehaviour : MonoBehaviour
 {
     public float movementSpeed = 0.01f;
     Vector3 movementDirection;
+    private Rigidbody2D phyBody;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        phyBody = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -34,8 +35,8 @@ public class MovementBehaviour : MonoBehaviour
             movementDirection = movementDirection + Vector3.right;
         }
         movementDirection.Normalize();
-        movementDirection = movementDirection * movementSpeed;
+        movementDirection = Time.deltaTime * movementDirection * movementSpeed ;
 
-        transform.position += movementDirection;
+         phyBody.AddForce( movementDirection);
     }
 }
