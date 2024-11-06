@@ -1,0 +1,1252 @@
+fileFormatVersion: 2
+guid: 0fc2c00776646864c8fcfeff2252fd71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7461502901417636397
+    second: spongebobAnimationAtlas_0
+  - first:
+      213: -2135634702727058164
+    second: spongebobAnimationAtlas_1
+  - first:
+      213: 4463773667998858839
+    second: spongebobAnimationAtlas_2
+  - first:
+      213: -8515896483569050225
+    second: spongebobAnimationAtlas_3
+  - first:
+      213: -8936309839274364769
+    second: spongebobAnimationAtlas_4
+  - first:
+      213: -7380481317979726091
+    second: spongebobAnimationAtlas_5
+  - first:
+      213: 139467624407095382
+    second: spongebobAnimationAtlas_6
+  - first:
+      213: 2893364513537288160
+    second: spongebobAnimationAtlas_7
+  - first:
+      213: 4483913286819845381
+    second: spongebobAnimationAtlas_8
+  - first:
+      213: -7486290552574579025
+    second: spongebobAnimationAtlas_9
+  - first:
+      213: 3164609612015458074
+    second: spongebobAnimationAtlas_10
+  - first:
+      213: -3066385147797817509
+    second: spongebobAnimationAtlas_11
+  - first:
+      213: -4563828697120151230
+    second: spongebobAnimationAtlas_12
+  - first:
+      213: -7852615672038915315
+    second: spongebobAnimationAtlas_13
+  - first:
+      213: -7830370342473350222
+    second: spongebobAnimationAtlas_14
+  - first:
+      213: 2082802689530091799
+    second: spongebobAnimationAtlas_15
+  - first:
+      213: 2075579277768707053
+    second: spongebobAnimationAtlas_16
+  - first:
+      213: -2613808641591111145
+    second: spongebobAnimationAtlas_17
+  - first:
+      213: -450842616573869905
+    second: spongebobAnimationAtlas_18
+  - first:
+      213: -8258192637602205660
+    second: spongebobAnimationAtlas_19
+  - first:
+      213: -2188998473661723850
+    second: spongebobAnimationAtlas_20
+  - first:
+      213: 5733703185459956529
+    second: spongebobAnimationAtlas_21
+  - first:
+      213: 3618691030997730638
+    second: spongebobAnimationAtlas_22
+  - first:
+      213: -586570585079228628
+    second: spongebobAnimationAtlas_23
+  - first:
+      213: 7614560651463275464
+    second: spongebobAnimationAtlas_24
+  - first:
+      213: -5703055970435841836
+    second: spongebobAnimationAtlas_25
+  - first:
+      213: -429387035242310266
+    second: spongebobAnimationAtlas_26
+  - first:
+      213: -7960095389745101054
+    second: spongebobAnimationAtlas_27
+  - first:
+      213: 7444216312981507961
+    second: spongebobAnimationAtlas_28
+  - first:
+      213: -4803267397307012582
+    second: spongebobAnimationAtlas_29
+  - first:
+      213: -3977930233918182821
+    second: spongebobAnimationAtlas_30
+  - first:
+      213: 5995340553248475467
+    second: spongebobAnimationAtlas_31
+  - first:
+      213: 4722044125400208544
+    second: spongebobAnimationAtlas_32
+  - first:
+      213: 8663414601682049681
+    second: spongebobAnimationAtlas_33
+  - first:
+      213: -3514164888317313702
+    second: spongebobAnimationAtlas_34
+  - first:
+      213: 2199287728173898494
+    second: spongebobAnimationAtlas_35
+  - first:
+      213: -7702367016684391352
+    second: spongebobAnimationAtlas_36
+  - first:
+      213: 7270906947705152866
+    second: spongebobAnimationAtlas_37
+  - first:
+      213: 4396064879039605638
+    second: spongebobAnimationAtlas_38
+  - first:
+      213: 7881283003780590630
+    second: spongebobAnimationAtlas_39
+  - first:
+      213: -1559331439041182323
+    second: spongebobAnimationAtlas_40
+  - first:
+      213: 7404964835650428817
+    second: spongebobAnimationAtlas_41
+  - first:
+      213: 5517355782955163821
+    second: spongebobAnimationAtlas_42
+  - first:
+      213: 8641856562336378999
+    second: spongebobAnimationAtlas_43
+  - first:
+      213: -6780308059218645970
+    second: spongebobAnimationAtlas_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 311
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c4fd98aed8ae468e8785f7c85e55e
+      internalID: 2021612261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 277
+        width: 156
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2cc8c5c07350408298c13b9d21511
+      internalID: -718854265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 253
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d22be925310e41bea3d6cce819aa1
+      internalID: 1527305555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 253
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897b7352f8799a2429af81b3c73a1898
+      internalID: -1413886983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 253
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1b28bad20c1143b29db672c41cd8f
+      internalID: 1817595982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 253
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06152af7c60bf64c9626a801221e0ff
+      internalID: 1700311557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 253
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea7ed80b6c1195428daaacfa98c926f
+      internalID: -1712221200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 253
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3597e9adae3a8429866d0758df05ac
+      internalID: 2073487411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 253
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8fe01f53339444aab07d28e2973b22
+      internalID: 813076728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 212
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85529f4b16303cc458c1fdeae16a60d1
+      internalID: 1855504734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 213
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1e25dad020b6a408e2a82ee2c8f53b
+      internalID: 1999208350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 214
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383fe13159bdbe04696e5fb69c3eeb83
+      internalID: -126114011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 214
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86286a92897f3d641a0eef655a014dec
+      internalID: 1698275672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead171687235aa549a195654c28d0d55
+      internalID: 1122128424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 214
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0ba6578d1f094891c9037b6cee61f
+      internalID: 1135851861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 176
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01238736db2d4a64c9a4caea9e9ceb9f
+      internalID: -155740168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 175
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df67ac6a23bd7ad42909ee453195750b
+      internalID: -1700532534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 175
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd8d6c9a08fb3a4c8998cd410da090e
+      internalID: 455543195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 179
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c626051462d6c3c488306ae24a9a25dd
+      internalID: -908257802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 175
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82997de6809db2b4fbf3a89fcf2e0b70
+      internalID: -1713007665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 175
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df496504979051429648b18d57d9a9c
+      internalID: 1735289776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 175
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf93efee756ba478db82e28cbe35c3
+      internalID: -1481905744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 175
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9e76fdcb9a90c418cf10bceb5d9ea1
+      internalID: -274876244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 175
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5489a7098ac641941c3ed5a76dfc2
+      internalID: 1412595475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 175
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81af7f554b53598459305c61ad0a956e
+      internalID: -706591569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 175
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d36883981d38b546b2da68134e6de16
+      internalID: -1025195090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 175
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ebf9f3a6cf4fe4d9126d04b26d2909
+      internalID: 621950633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58753e6745d437b48b14b839ca5d3485
+      internalID: -1494608583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 110
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e40cba4fbe6e14d8fdbf334c7b3a8e
+      internalID: 1151611208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 110
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086072f31a4978e4c8f1e95a701ae606
+      internalID: 891229354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 110
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa992edd6247ff4292d867816d95356
+      internalID: 577909139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 110
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7198068e16e8e884caa98aad377d7977
+      internalID: 1422888293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7fbb12a2eb3a47b7bab4bb562c14b
+      internalID: -666918249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 110
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e465b7a76dd60a34db8bfcce319c5932
+      internalID: 535682538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 110
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272aef2e9718d2640b02c8083d281f8a
+      internalID: 537563816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 60
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398d5411300b09c42941a8341ba4956d
+      internalID: -1374348081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 60
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a4a8adb89773b48a5e7452bd572eb4
+      internalID: 115640074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 60
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d059418c43ed647b148da2e1510955
+      internalID: 245414358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 60
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93a6263095da134c9df878d6d128e00
+      internalID: -1394017879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 60
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee03d58a682b44db08e400a8422ffd
+      internalID: 187433029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 8
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e91ef615493e4f99011b75cb40064
+      internalID: -448811150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb1367734a76cf4eb7b1095c9ad78d0
+      internalID: -1753078621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8342ebd5e50ba09418bd2b23f79c4c67
+      internalID: -1517394436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2dd0fb3fa35f84ba8c60d0491d1791
+      internalID: 1012894315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spongebobAnimationAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 8
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d8d8533982529499e82528ccd81b8e
+      internalID: 884755513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c116f9987d36cb2468d281163e79abe6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spongebobAnimationAtlas_0: 2021612261
+      spongebobAnimationAtlas_1: -718854265
+      spongebobAnimationAtlas_10: 1999208350
+      spongebobAnimationAtlas_11: -126114011
+      spongebobAnimationAtlas_12: 1698275672
+      spongebobAnimationAtlas_13: 1122128424
+      spongebobAnimationAtlas_14: 1135851861
+      spongebobAnimationAtlas_15: -155740168
+      spongebobAnimationAtlas_16: -1700532534
+      spongebobAnimationAtlas_17: 455543195
+      spongebobAnimationAtlas_18: -908257802
+      spongebobAnimationAtlas_19: -1713007665
+      spongebobAnimationAtlas_2: 1527305555
+      spongebobAnimationAtlas_20: 1735289776
+      spongebobAnimationAtlas_21: -1481905744
+      spongebobAnimationAtlas_22: -274876244
+      spongebobAnimationAtlas_23: 1412595475
+      spongebobAnimationAtlas_24: -706591569
+      spongebobAnimationAtlas_25: -1025195090
+      spongebobAnimationAtlas_26: 621950633
+      spongebobAnimationAtlas_27: -1494608583
+      spongebobAnimationAtlas_28: 1151611208
+      spongebobAnimationAtlas_29: 891229354
+      spongebobAnimationAtlas_3: -1413886983
+      spongebobAnimationAtlas_30: 577909139
+      spongebobAnimationAtlas_31: 1422888293
+      spongebobAnimationAtlas_32: -666918249
+      spongebobAnimationAtlas_33: 535682538
+      spongebobAnimationAtlas_34: 537563816
+      spongebobAnimationAtlas_35: -1374348081
+      spongebobAnimationAtlas_36: 115640074
+      spongebobAnimationAtlas_37: 245414358
+      spongebobAnimationAtlas_38: -1394017879
+      spongebobAnimationAtlas_39: 187433029
+      spongebobAnimationAtlas_4: 1817595982
+      spongebobAnimationAtlas_40: -448811150
+      spongebobAnimationAtlas_41: -1753078621
+      spongebobAnimationAtlas_42: -1517394436
+      spongebobAnimationAtlas_43: 1012894315
+      spongebobAnimationAtlas_44: 884755513
+      spongebobAnimationAtlas_5: 1700311557
+      spongebobAnimationAtlas_6: -1712221200
+      spongebobAnimationAtlas_7: 2073487411
+      spongebobAnimationAtlas_8: 813076728
+      spongebobAnimationAtlas_9: 1855504734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

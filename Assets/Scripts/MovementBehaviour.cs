@@ -7,11 +7,12 @@ public class MovementBehaviour : MonoBehaviour
     public float movementSpeed = 0.01f;
     Vector3 movementDirection;
     private Rigidbody2D phyBody;
-
+    PlayerAnimationController myAppearance;
     // Start is called before the first frame update
     void Start()
     {
         phyBody = GetComponent<Rigidbody2D>();
+        myAppearance = GetComponent<PlayerAnimationController>();
     }
 
     // Update is called once per frame
@@ -36,7 +37,14 @@ public class MovementBehaviour : MonoBehaviour
         }
         movementDirection.Normalize();
         movementDirection = Time.deltaTime * movementDirection * movementSpeed ;
+        if (movementDirection == Vector3.zero) {
 
-         phyBody.AddForce( movementDirection);
+            myAppearance.ChangeAnim("idle");
+        }
+        else 
+        {
+            myAppearance.ChangeAnim("Rolling");
+        }
+        phyBody.AddForce( movementDirection);
     }
 }
