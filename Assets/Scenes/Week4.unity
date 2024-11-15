@@ -384,6 +384,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 2000.8
+  burgerUI: {fileID: 528960355}
 --- !u!50 &401718666
 Rigidbody2D:
   serializedVersion: 4
