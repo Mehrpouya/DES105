@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class MovementBehaviour : MonoBehaviour
@@ -8,6 +9,10 @@ public class MovementBehaviour : MonoBehaviour
     Vector3 movementDirection;
     private Rigidbody2D phyBody;
     PlayerAnimationController myAppearance;
+    public TextMeshProUGUI burgerUI;
+
+
+    int burgerCount = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -46,5 +51,22 @@ public class MovementBehaviour : MonoBehaviour
             myAppearance.ChangeAnim("Rolling");
         }
         phyBody.AddForce( movementDirection);
+    }
+
+    void EatBurger() { 
+            burgerCount++;
+        burgerUI.text = "Burgers: " + burgerCount;
+
+
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        print(collision.gameObject.tag);
+        if (collision.gameObject.tag.Contains("burger")) {
+
+            print("burger!");
+            EatBurger();
+        }
     }
 }
