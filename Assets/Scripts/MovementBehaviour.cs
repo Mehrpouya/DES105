@@ -80,5 +80,19 @@ public class MovementBehaviour : MonoBehaviour
             print("burger!");
             EatBurger();
         }
+        if (collision.gameObject.name.Contains("MovingSponge"))
+        {
+
+            transform.parent = collision.gameObject.transform;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.name.Contains("MovingSponge"))
+        {
+
+            transform.parent = null;
+        }
     }
 }

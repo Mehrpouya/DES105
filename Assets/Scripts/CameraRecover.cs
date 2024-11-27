@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class CameraRecover : MonoBehaviour
@@ -28,10 +29,6 @@ public class CameraRecover : MonoBehaviour
         }
         else {
             transform.Rotate(new Vector3(0, 0, 1), -RecoverySpeed);
-        }
-        
-        if (transform.rotation.z < 0) { 
-            transform.rotation = Quaternion.identity;
         }
     }
 }

@@ -18,5 +18,10 @@ public class SpongeBobRotateCamera : MonoBehaviour
             Camera myCam = Camera.main;
             myCam.transform.Rotate(new Vector3(0, 0, 1), 0.3f);
         }
+        if (Input.GetKey(KeyCode.J))
+        {
+            Camera myCam = Camera.main;
+            myCam.transform.Rotate(new Vector3(0, 0, 1), -0.3f);
+        }
     }
 }

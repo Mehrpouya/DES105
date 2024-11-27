@@ -36,8 +36,11 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
-  - m_ConditionMode: 6
-    m_ConditionEvent: xMovement
+  - m_ConditionMode: 2
+    m_ConditionEvent: is_Walking
+    m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: is_Rolling
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -7949594186121564295}
@@ -89,8 +92,11 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
-  - m_ConditionMode: 7
-    m_ConditionEvent: xMovement
+  - m_ConditionMode: 2
+    m_ConditionEvent: is_Rolling
+    m_EventTreshold: 0
+  - m_ConditionMode: 1
+    m_ConditionEvent: is_Walking
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1324063368353121712}
@@ -142,9 +148,6 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
-  - m_ConditionMode: 7
-    m_ConditionEvent: xMovement
-    m_EventTreshold: 0
   - m_ConditionMode: 1
     m_ConditionEvent: is_Rolling
     m_EventTreshold: 0
@@ -171,13 +174,13 @@ AnimatorController:
   m_Name: spongebobAnimationAtlas_2
   serializedVersion: 5
   m_AnimatorParameters:
-  - m_Name: xMovement
-    m_Type: 3
+  - m_Name: is_Rolling
+    m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
-  - m_Name: is_Rolling
+  - m_Name: is_Walking
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -232,6 +235,9 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: is_Rolling
     m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: is_Walking
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -7949594186121564295}
   m_Solo: 0
@@ -254,8 +260,8 @@ AnimatorStateTransition:
   m_PrefabAsset: {fileID: 0}
   m_Name: 
   m_Conditions:
-  - m_ConditionMode: 7
-    m_ConditionEvent: xMovement
+  - m_ConditionMode: 2
+    m_ConditionEvent: is_Walking
     m_EventTreshold: 0
   - m_ConditionMode: 2
     m_ConditionEvent: is_Rolling
