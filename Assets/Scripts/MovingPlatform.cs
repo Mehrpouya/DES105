@@ -23,4 +23,11 @@ public class MovingPlatform : MonoBehaviour
             else { target = StartPos; }
         }
     }
+
+    public void ChooseRandomStarEnd() {
+        StartPos = new Vector3(Random.Range(-9f,9f), Random.Range(-4f, 4f),0);
+        EndPos = new Vector3(Random.Range(-9f, 9f), Random.Range(-4f, 4f), 0);
+
+
+    }
 }
