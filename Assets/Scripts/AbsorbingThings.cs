@@ -24,6 +24,8 @@ public class AbsorbingThings : MonoBehaviour
             crumbsManager.GenerateCrumbs(100, 
                 transform.position );
             ReduceTint();
+            Vector3 burgerPosition = collision.gameObject.transform.position;
+            collision.gameObject.transform.position = new Vector3(Random.Range(-9f,9f),burgerPosition.y,burgerPosition.z);
         } 
     }
     void ReduceTint() {
