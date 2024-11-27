@@ -30,8 +30,6 @@ public class CrumbsManager : MonoBehaviour
             if (crumb.isDead) { 
                 crumbs.Remove(crumb);
                 Destroy(crumb.gameObject);
-
-
             }
         }
     }

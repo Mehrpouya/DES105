@@ -20,31 +20,34 @@ public class PlayerAnimationController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K)) {
-            bool is_Rolling = myAnimator.GetBool("is_Rolling");
-            myAnimator.SetBool("is_Rolling", !is_Rolling);
-        }   
+        
     }
 
     public void ChangeAnim(string toWhat) {
-        if (toWhat == "idle") {
+        if (toWhat == "Idle") {
             StartIdling();
         }
         if (toWhat == "Rolling")
         {
             StartRolling();
         }
+        if (toWhat == "Walking")
+        {
+            StartWalkingAnimation();
+        }
 
     }
-
+    void StartWalkingAnimation() {
+        myAnimator.SetBool("is_Rolling", false);
+        myAnimator.SetBool("is_Walking", true);
+    }
     void StartIdling() {
         myAnimator.SetBool("is_Rolling", false);
-        myAnimator.SetInteger("xMovement", 0);
+        myAnimator.SetBool("is_Walking", false);
     }
     void StartRolling()
     {
         myAnimator.SetBool("is_Rolling", true);
-        myAnimator.SetInteger("xMovement", 0);
     }
 
 }

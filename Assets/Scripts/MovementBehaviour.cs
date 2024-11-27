@@ -23,10 +23,15 @@ public class MovementBehaviour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        movementDirection = Vector3.zero;
+        CheckInputs();
+        phyBody.AddForce( movementDirection);
+    }
 
-        if (Input.GetKey(KeyCode.W)) {
-            movementDirection = movementDirection +  Vector3.up;
+    void CheckInputs() {
+        movementDirection = Vector3.zero;
+        if (Input.GetKey(KeyCode.W))
+        {
+            movementDirection = movementDirection + Vector3.up;
         }
         if (Input.GetKey(KeyCode.S))
         {
@@ -40,17 +45,24 @@ public class MovementBehaviour : MonoBehaviour
         {
             movementDirection = movementDirection + Vector3.right;
         }
-        movementDirection.Normalize();
-        movementDirection = Time.deltaTime * movementDirection * movementSpeed ;
-        if (movementDirection == Vector3.zero) {
-
-            myAppearance.ChangeAnim("idle");
-        }
-        else 
+        if (Input.GetKeyDown(KeyCode.K))
         {
             myAppearance.ChangeAnim("Rolling");
         }
-        phyBody.AddForce( movementDirection);
+        if (Input.GetKeyUp(KeyCode.K))
+        {
+            if (movementDirection.magnitude != 0) {
+                myAppearance.ChangeAnim("Walking");
+            }
+            else
+            {
+                myAppearance.ChangeAnim("Idle");
+            }
+
+
+        }
+        movementDirection.Normalize();
+        movementDirection = Time.deltaTime * movementDirection * movementSpeed;
     }
 
     void EatBurger() { 

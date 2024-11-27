@@ -15,9 +15,9 @@ public class AlternativeHealthBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.K)) {
-            mySprite.size += new Vector2(0.01f,0);
+        //if (Input.GetKey(KeyCode.K)) {
+        //    mySprite.size += new Vector2(0.01f,0);
         
-        }
+        //}
     }
 }
